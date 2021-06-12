@@ -38,7 +38,7 @@ variable "publicly-accessible" {
     type = bool
 }
 
-variable "usename" {
+variable "username" {
     type = string
 }
 
